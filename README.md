@@ -11,7 +11,7 @@ Create a Directory
 
 Open that Directory in Vs code
 
-git clone https://github.com/Rithuraj2000/Cypress_demo.git
+git clone https://github.com/Rithuraj2000/Cypress_demo.git in the Terminal
 
 Install node if required
 
